@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-  <strong>🚀 Full Stack @ <span style="color:#00bcd4;">RentInTbilisi</span> | Focused on Dev, Design & Systems ⚙️</strong>
+  <strong>🚀 Full Stack @ <span style="color:#00bcd4;">Free Resources</span> | Focused on Dev, Design & Systems ⚙️</strong>
 </h3>
 
 ---
@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen01977&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Abi-de-jo&theme=github-dark&hide_border=false" />
   <br/>
@@ -83,7 +83,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen01977&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
 </p>
 
 ---
@@ -111,7 +111,7 @@
 ## 🔝 Most Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abi-de-jo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Naveen01977&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
